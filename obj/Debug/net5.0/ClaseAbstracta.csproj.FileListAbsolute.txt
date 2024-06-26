@@ -1,0 +1,15 @@
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\interface\ClaseAbstracta\bin\Debug\net5.0\ClaseAbstracta.exe
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\interface\ClaseAbstracta\bin\Debug\net5.0\ClaseAbstracta.deps.json
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\interface\ClaseAbstracta\bin\Debug\net5.0\ClaseAbstracta.runtimeconfig.json
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\interface\ClaseAbstracta\bin\Debug\net5.0\ClaseAbstracta.runtimeconfig.dev.json
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\interface\ClaseAbstracta\bin\Debug\net5.0\ClaseAbstracta.dll
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\interface\ClaseAbstracta\bin\Debug\net5.0\ClaseAbstracta.pdb
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\interface\ClaseAbstracta\obj\Debug\net5.0\ClaseAbstracta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\interface\ClaseAbstracta\obj\Debug\net5.0\ClaseAbstracta.AssemblyInfoInputs.cache
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\interface\ClaseAbstracta\obj\Debug\net5.0\ClaseAbstracta.AssemblyInfo.cs
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\interface\ClaseAbstracta\obj\Debug\net5.0\ClaseAbstracta.csproj.CoreCompileInputs.cache
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\interface\ClaseAbstracta\obj\Debug\net5.0\ClaseAbstracta.dll
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\interface\ClaseAbstracta\obj\Debug\net5.0\refint\ClaseAbstracta.dll
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\interface\ClaseAbstracta\obj\Debug\net5.0\ClaseAbstracta.pdb
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\interface\ClaseAbstracta\obj\Debug\net5.0\ClaseAbstracta.genruntimeconfig.cache
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\interface\ClaseAbstracta\obj\Debug\net5.0\ref\ClaseAbstracta.dll
